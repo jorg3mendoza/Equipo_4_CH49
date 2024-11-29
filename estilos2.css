@@ -11,5 +11,5 @@ Voy a asiganr variables a los colores, para no aprendernos el codigo*/
     /*Personalizo el alto y ancho de toda la pantalla. */
     width: 100vw; /*view with*/
     height: 500vh; /*view height*/
-    margin: 0;
+    margin: 30px;
 }

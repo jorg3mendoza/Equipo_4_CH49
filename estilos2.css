@@ -1,0 +1,15 @@
+:root{
+/* La propiedades que yo le asigne a root, se aplicarán a todo
+el documento, en este caso HTML. 
+Voy a asiganr variables a los colores, para no aprendernos el codigo*/
+    --bg--color:#C96868; /*Asigné variables a los colores*/
+    --primary-color:#FADFA1;
+    --secondary-color:#7EACB5;
+    --hg-color:#FFF4EA;
+    background-color:var(--bg--color);
+    color: var(--hg-color); /*Color del texto*/
+    /*Personalizo el alto y ancho de toda la pantalla. */
+    width: 100vw; /*view with*/
+    height: 500vh; /*view height*/
+    margin: 30px;
+}
